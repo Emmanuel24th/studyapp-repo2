@@ -1,0 +1,7 @@
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/studyapp2
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/appsettings.Development.json
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/appsettings.json
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/studyapp2.dll
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/studyapp2.deps.json
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/studyapp2.runtimeconfig.json
+/Users/emmomo/studyapp2/studyapp2/bin/Release/net8.0/publish/studyapp2.pdb
